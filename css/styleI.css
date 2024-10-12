@@ -1,0 +1,54 @@
+header {
+    padding: 20px;
+    background-color: #1a1a1a; 
+    
+    color: white;
+}
+
+body {
+    background-color: #ccd0d6; 
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 200px;
+    margin-right: 800px;
+}
+
+a {
+    color: white;
+    text-decoration: none;  
+}
+
+ul {
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+footer {
+    background-color: #1a1a1a; 
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.texte {
+    text-align: center;
+    padding: 90px 500px;
+
+}
+
+.pad   {
+    padding: 100px 500px 150px 500px;
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+body {
+    background-color: #ccd0d6; 
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;  
+}
+
+ul {
+    list-style: none;
+}
+.jcaround {
+    justify-content: space-around;
+}
+
+.d-flex {
+    display: flex;
+}
+.aicenter {
+    align-items: center;
+}
+
+nav ul li {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header {
+    padding: 20px;
+    background-color: #1c3a63; 
+    color: white;
+}
+
+.logo {
+    width: 200px;
+    margin-right: 800px;
+}
+
+.procu {
+    margin-left: auto;
+}
+
+footer {
+    background-color: #1c3a63; 
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+div p {
+    text-align: center;
+    padding-top: 50px ;
+}
